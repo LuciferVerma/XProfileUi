@@ -1,0 +1,15 @@
+name: XProfileUi
+author: LuciferVerma
+website: www.rayntyofficial.ml
+main: LuciferVerma\XProfileUi\Main
+version: 1.0.0
+api: [3.0.0]
+
+Depend:
+  FormApi
+  ProfileUi
+  
+commands:
+  pinfo:
+    usage: /pinfo
+    description: Input Ui For Profileui
